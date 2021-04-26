@@ -16,7 +16,7 @@ $ source virtual/bin/activate
 
 (virtual)$ pip install -r requirements.txt
 
-(virtual)$ python3 start.py server
+(virtual)$ python3 manage.py server
 
 
 
